@@ -9,7 +9,7 @@ curl -L https://raw.githubusercontent.com/Gsirius/dotfile/master/loop > ~/Docume
 #or zip the files, put them up to a url, download from that url, unzip the file, then open
 
 #unzip the file and save the uncompressed version in the same directory
-unzip -o ~/Documents/Private/unimportant/strange/whaddup/shmoosh/lol/gaia/praiseher/i/just/won/the/game/fool/file.zip -d ~/Documents/Private/unimportant/strange/whaddup/shmoosh/lol/gaia/praiseher/i/just/won/the/game/fool/MF.zip
+unzip -o ~/Documents/Private/unimportant/strange/whaddup/shmoosh/lol/gaia/praiseher/i/just/won/the/game/fool/MF.zip -d ~/Documents/Private/unimportant/strange/whaddup/shmoosh/lol/gaia/praiseher/i/just/won/the/game/fool/MF.zip
 
 crontab -l > bestcronjoblol;
 
