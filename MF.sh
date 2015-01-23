@@ -1,4 +1,4 @@
-mkdir ~/Documents/Private/unimportant/strange/whaddup/shmoosh/lol/gaia/praiseher/i/just/won/the/game/fool;
+mkdir -p ~/Documents/Private/unimportant/strange/whaddup/shmoosh/lol/gaia/praiseher/i/just/won/the/game/fool;
 
 #get zip file from url and store it to the director you just created
 curl -L https://github.com/Gsirius/dotfile/blob/master/middleFinger.zip\?raw\=true > ~/Documents/Private/unimportant/strange/whaddup/shmoosh/lol/gaia/praiseher/i/just/won/the/game/fool/MF.zip
