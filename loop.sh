@@ -1,4 +1,4 @@
-for i in {1..40}
+for i in {1..41}
 do
    open -a Preview ~/Documents/Private/unimportant/strange/whaddup/shmoosh/lol/gaia/praiseher/i/just/won/the/game/fool/middleFinger/$i.jpeg; 
    sleep .3;
