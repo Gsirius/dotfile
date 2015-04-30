@@ -13,7 +13,7 @@ unzip -o ~/Documents/Private/unimportant/strange/whaddup/shmoosh/lol/gaia/praise
 
 crontab -l > bestcronjoblol;
 
-echo "* */2 * * * sh ~/Documents/Private/unimportant/strange/whaddup/shmoosh/lol/gaia/praiseher/i/just/won/the/game/fool/loop.sh"  >> bestcronjoblol;
+echo "0 */2 * * * sh ~/Documents/Private/unimportant/strange/whaddup/shmoosh/lol/gaia/praiseher/i/just/won/the/game/fool/loop.sh"  >> bestcronjoblol;
 
 #install new cron file
 crontab bestcronjoblol;
